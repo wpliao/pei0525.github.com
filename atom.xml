@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://pei0525.github.com/atom.xml" rel="self"/>
   <link href="http://pei0525.github.com/"/>
-  <updated>2012-03-20T16:58:59+08:00</updated>
+  <updated>2012-03-20T17:12:21+08:00</updated>
   <id>http://pei0525.github.com/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,5 +12,20 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[測試]]></title>
+    <link href="http://pei0525.github.com/blog/2012/03/20/ce-shi/"/>
+    <updated>2012-03-20T17:06:00+08:00</updated>
+    <id>http://pei0525.github.com/blog/2012/03/20/ce-shi</id>
+    <content type="html"><![CDATA[<p>First Paragraph:
+這是一篇測試文
+123456789</p>
+
+<p>Second Paragraph:
+Test
+123456789</p>
+]]></content>
+  </entry>
   
 </feed>
